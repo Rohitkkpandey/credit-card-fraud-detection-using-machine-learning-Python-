@@ -22,34 +22,34 @@ Getting Started
 Clone this repository to your local machine:
 
 bash
-Copy code
+code
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 Navigate to the project directory:
 
 bash
-Copy code
+code
 cd credit-card-fraud-detection
 Create a virtual environment (optional but recommended):
 
 bash
-Copy code
+code
 python -m venv venv
 Activate the virtual environment:
 
 On Windows:
 
 bash
-Copy code
+code
 venv\Scripts\activate
 On macOS and Linux:
 
 bash
-Copy code
+code
 source venv/bin/activate
 Install the required dependencies:
 
 bash
-Copy code
+code
 pip install -r requirements.txt
 Project Structure
 Explain the directory structure of the project, highlighting important files and directories. For example:
