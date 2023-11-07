@@ -19,12 +19,9 @@ Python (version X.X.X)
 Python packages and libraries (list dependencies and versions)
 [Dataset](link to the dataset used)
 Getting Started
-Clone this repository to your local machine:
 
-bash
-code
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-Navigate to the project directory:
+
+
 
 bash
 code
